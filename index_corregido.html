@@ -1,0 +1,49 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Centros SENA</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="login-section">
+    <h2>Iniciar Sesión</h2>
+    <form id="login-form">
+      <label for="username">Usuario:</label>
+      <input type="text" id="username" required />
+      <label for="password">Contraseña:</label>
+      <input type="password" id="password" required />
+      <button type="submit">Ingresar</button>
+    </form>
+  </div>
+
+  <div id="app-section" style="display: none;">
+    <header>
+      <h2>Bienvenido, <span id="user-display"></span></h2>
+      <button id="logout">Salir</button>
+    </header>
+
+    <label for="regional-select">Seleccione una Regional:</label>
+    <select id="regional-select">
+      <option value="">-- Seleccione --</option>
+    </select>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Nombre Centro</th>
+          <th>Regional</th>
+          <th>Municipio</th>
+          <th>Latitud</th>
+          <th>Longitud</th>
+        </tr>
+      </thead>
+      <tbody id="centros-table"></tbody>
+    </table>
+  </div>
+
+  <script src="main_corregido.js"></script>
+</body>
+</html>

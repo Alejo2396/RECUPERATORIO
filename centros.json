@@ -1,0 +1,1890 @@
+[
+  {
+    "centro_formacion": "CENTRO DE LOS RECURSOS NATURALES RENOVABLES - LA SALADA",
+    "codigo_centro": "9101",
+    "latitud": "6.053527",
+    "longitud": "-75.628910",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.62891, 6.053527]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA EL DESARROLLO AGROECOLOGICO Y AGROINDUSTRIAL",
+    "codigo_centro": "9103",
+    "latitud": "10.987720",
+    "longitud": "-74.782770",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.78277, 10.98772]
+    },
+    "nombre_regional": "8",
+    "codigo_regional": "REGIONAL ATLANTICO",
+    "nombre_departamento": "ATLANTICO",
+    "codigo_departamento": "8",
+    "nombre_municipio": "BARRANQUILLA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROEMPRESARIAL Y MINERO",
+    "codigo_centro": "9104",
+    "latitud": "10.373000",
+    "longitud": "-75.461000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.461, 10.373]
+    },
+    "nombre_regional": "13",
+    "codigo_regional": "REGIONAL BOLIVAR",
+    "nombre_departamento": "BOLIVAR",
+    "codigo_departamento": "13",
+    "nombre_municipio": "CARTAGENA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DESARROLLO AGROPECUARIO Y AGROINDUSTRIAL",
+    "codigo_centro": "9110",
+    "latitud": "5.825560",
+    "longitud": "-73.029790",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.02979, 5.82556]
+    },
+    "nombre_regional": "15",
+    "codigo_regional": "REGIONAL BOYACA",
+    "nombre_departamento": "BOYACA",
+    "codigo_departamento": "15",
+    "nombre_municipio": "TUNJA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA LA FORMACION CAFETERA",
+    "codigo_centro": "9112",
+    "latitud": "5.032900",
+    "longitud": "-75.450600",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.4506, 5.0329]
+    },
+    "nombre_regional": "17",
+    "codigo_regional": "REGIONAL CALDAS",
+    "nombre_departamento": "CALDAS",
+    "codigo_departamento": "17",
+    "nombre_municipio": "MANIZALES",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROPECUARIO",
+    "codigo_centro": "9113",
+    "latitud": "2.440300",
+    "longitud": "-76.612800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.6128, 2.4403]
+    },
+    "nombre_regional": "19",
+    "codigo_regional": "REGIONAL CAUCA",
+    "nombre_departamento": "CAUCA",
+    "codigo_departamento": "19",
+    "nombre_municipio": "POPAYAN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO BIOTECNOLOGICO DEL CARIBE",
+    "codigo_centro": "9114",
+    "latitud": "10.398900",
+    "longitud": "-73.238970",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.23897, 10.3989]
+    },
+    "nombre_regional": "20",
+    "codigo_regional": "REGIONAL CESAR",
+    "nombre_departamento": "CESAR",
+    "codigo_departamento": "20",
+    "nombre_municipio": "VALLEDUPAR",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROINDUSTRIAL DEL META",
+    "codigo_centro": "9117",
+    "latitud": "4.062000",
+    "longitud": "-73.514570",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.51457, 4.062]
+    },
+    "nombre_regional": "50",
+    "codigo_regional": "REGIONAL META",
+    "nombre_departamento": "META",
+    "codigo_departamento": "50",
+    "nombre_municipio": "VILLAVICENCIO",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO ACUICOLA Y AGROINDUSTRIAL DE GAIRA",
+    "codigo_centro": "9118",
+    "latitud": "11.183340",
+    "longitud": "-74.216670",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.21667, 11.18334]
+    },
+    "nombre_regional": "47",
+    "codigo_regional": "REGIONAL MAGDALENA",
+    "nombre_departamento": "MAGDALENA",
+    "codigo_departamento": "47",
+    "nombre_municipio": "SANTA MARTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION PARA EL DESARROLLO RURAL Y MINERO",
+    "codigo_centro": "9119",
+    "latitud": "7.899300",
+    "longitud": "-73.514570",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.51457, 7.8993]
+    },
+    "nombre_regional": "54",
+    "codigo_regional": "REGIONAL NORTE DE SANTANDER",
+    "nombre_departamento": "NORTE DE SANTANDER",
+    "codigo_departamento": "54",
+    "nombre_municipio": "CUCUTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROINDUSTRIAL",
+    "codigo_centro": "9120",
+    "latitud": "4.568000",
+    "longitud": "-75.651000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.651, 4.568]
+    },
+    "nombre_regional": "63",
+    "codigo_regional": "REGIONAL QUINDIO",
+    "nombre_departamento": "NARINO",
+    "codigo_departamento": "52",
+    "nombre_municipio": "SAN PABLO",
+    "codigo_municipio": "693"
+  },
+  {
+    "centro_formacion": "CENTRO ATENCION SECTOR AGROPECUARIO",
+    "codigo_centro": "9121",
+    "latitud": "4.814400",
+    "longitud": "-75.700700",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.7007, 4.8144]
+    },
+    "nombre_regional": "66",
+    "codigo_regional": "REGIONAL RISARALDA",
+    "nombre_departamento": "RISARALDA",
+    "codigo_departamento": "66",
+    "nombre_municipio": "PEREIRA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO ATENCION SECTOR AGROPECUARIO",
+    "codigo_centro": "9122",
+    "latitud": "6.991890",
+    "longitud": "-73.068600",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.0686, 6.99189]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "CORDOBA",
+    "codigo_departamento": "23",
+    "nombre_municipio": "MONTERIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROPECUARIO LA GRANJA",
+    "codigo_centro": "9123",
+    "latitud": "4.171000",
+    "longitud": "-74.929000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.929, 4.171]
+    },
+    "nombre_regional": "73",
+    "codigo_regional": "REGIONAL TOLIMA",
+    "nombre_departamento": "TOLIMA",
+    "codigo_departamento": "73",
+    "nombre_municipio": "IBAGUE",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROPECUARIO DE BUGA",
+    "codigo_centro": "9124",
+    "latitud": "3.614127",
+    "longitud": "-76.274860",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.27486, 3.614127]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "ATLANTICO",
+    "codigo_departamento": "8",
+    "nombre_municipio": "SOLEDAD",
+    "codigo_municipio": "758"
+  },
+  {
+    "centro_formacion": "CENTRO LATINOAMERICANO DE ESPECIES MENORES",
+    "codigo_centro": "9125",
+    "latitud": "4.045600",
+    "longitud": "-76.204000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.204, 4.0456]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "VALLE DEL CAUCA",
+    "codigo_departamento": "76",
+    "nombre_municipio": "CALI",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO NAUTICO PESQUERO DE BUENAVENTURA",
+    "codigo_centro": "9126",
+    "latitud": "3.881790",
+    "longitud": "-77.041527",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-77.041527, 3.88179]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "CAUCA",
+    "codigo_departamento": "19",
+    "nombre_municipio": "GUAPI",
+    "codigo_municipio": "318"
+  },
+  {
+    "centro_formacion": "CENTRO DEL DISENO Y MANUFACTURA DEL CUERO",
+    "codigo_centro": "9201",
+    "latitud": "6.180260",
+    "longitud": "-75.605190",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.60519, 6.18026]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION EN DISENO CONFECCION Y MODA",
+    "codigo_centro": "9202",
+    "latitud": "6.179960",
+    "longitud": "-75.605180",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.60518, 6.17996]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA EL DESARROLLO DEL HABITAT Y LA CONSTRUCCION",
+    "codigo_centro": "9203",
+    "latitud": "6.301000",
+    "longitud": "-75.568000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.568, 6.301]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE TECNOLOGIA DE LA MANUFACTURA AVANZADA",
+    "codigo_centro": "9204",
+    "latitud": "6.301600",
+    "longitud": "-75.568600",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.5686, 6.3016]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO TECNOLOGICO DEL MOBILIARIO",
+    "codigo_centro": "9205",
+    "latitud": "6.180730",
+    "longitud": "-75.605190",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.60519, 6.18073]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO TEXTIL Y DE GESTION INDUSTRIAL",
+    "codigo_centro": "9206",
+    "latitud": "6.302000",
+    "longitud": "-75.568500",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.5685, 6.302]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO NACIONAL COLOMBO ALEMAN",
+    "codigo_centro": "9207",
+    "latitud": "10.941000",
+    "longitud": "-74.782500",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.7825, 10.941]
+    },
+    "nombre_regional": "8",
+    "codigo_regional": "REGIONAL ATLANTICO",
+    "nombre_departamento": "ATLANTICO",
+    "codigo_departamento": "8",
+    "nombre_municipio": "BARRANQUILLA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INDUSTRIAL Y DE AVIACION",
+    "codigo_centro": "9208",
+    "latitud": "10.942000",
+    "longitud": "-74.782700",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.7827, 10.942]
+    },
+    "nombre_regional": "8",
+    "codigo_regional": "REGIONAL ATLANTICO",
+    "nombre_departamento": "ATLANTICO",
+    "codigo_departamento": "8",
+    "nombre_municipio": "BARRANQUILLA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE TECNOLOGIAS PARA LA CONSTRUCCION Y LA MADERA",
+    "codigo_centro": "9209",
+    "latitud": "4.592500",
+    "longitud": "-74.093600",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.0936, 4.5925]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE ELECTRICIDAD ELECTRONICA Y TELECOMUNICACIONES",
+    "codigo_centro": "9210",
+    "latitud": "4.596000",
+    "longitud": "-74.110800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.1108, 4.596]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION INDUSTRIAL",
+    "codigo_centro": "9211",
+    "latitud": "4.616575",
+    "longitud": "-74.091860",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.09186, 4.616575]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE MANUFACTURA EN TEXTILES Y CUERO",
+    "codigo_centro": "9212",
+    "latitud": "4.596130",
+    "longitud": "-74.110877",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.110877, 4.59613]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE TECNOLOGIAS DEL TRANSPORTE",
+    "codigo_centro": "9213",
+    "latitud": "4.596200",
+    "longitud": "-74.110800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.1108, 4.5962]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO METALMECANICO",
+    "codigo_centro": "9214",
+    "latitud": "4.597000",
+    "longitud": "-74.109880",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.10988, 4.597]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE MATERIALES Y ENSAYOS",
+    "codigo_centro": "9215",
+    "latitud": "4.596180",
+    "longitud": "-74.110900",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.1109, 4.59618]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DISENO Y METROLOGIA",
+    "codigo_centro": "9216",
+    "latitud": "4.616470",
+    "longitud": "-74.091875",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.091875, 4.61647]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA LA INDUSTRIA DE LA COMUNICACION GRAFICA",
+    "codigo_centro": "9217",
+    "latitud": "4.616380",
+    "longitud": "-74.091800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.0918, 4.61638]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA LA INDUSTRIA PETROQUIMICA",
+    "codigo_centro": "9218",
+    "latitud": "10.406000",
+    "longitud": "-75.503000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.503, 10.406]
+    },
+    "nombre_regional": "13",
+    "codigo_regional": "REGIONAL BOLIVAR",
+    "nombre_departamento": "BOLIVAR",
+    "codigo_departamento": "13",
+    "nombre_municipio": "CARTAGENA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE AUTOMATIZACION INDUSTRIAL",
+    "codigo_centro": "9219",
+    "latitud": "5.033100",
+    "longitud": "-75.451050",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.45105, 5.0331]
+    },
+    "nombre_regional": "17",
+    "codigo_regional": "REGIONAL CALDAS",
+    "nombre_departamento": "CALDAS",
+    "codigo_departamento": "17",
+    "nombre_municipio": "MANIZALES",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE PROCESOS INDUSTRIALES Y CONSTRUCCION",
+    "codigo_centro": "9220",
+    "latitud": "5.033300",
+    "longitud": "-75.451030",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.45103, 5.0333]
+    },
+    "nombre_regional": "17",
+    "codigo_regional": "REGIONAL CALDAS",
+    "nombre_departamento": "CALDAS",
+    "codigo_departamento": "17",
+    "nombre_municipio": "MANIZALES",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE TELEINFORMATICA Y PRODUCCION INDUSTRIAL",
+    "codigo_centro": "9221",
+    "latitud": "2.440370",
+    "longitud": "-76.613000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.613, 2.44037]
+    },
+    "nombre_regional": "19",
+    "codigo_regional": "REGIONAL CAUCA",
+    "nombre_departamento": "CAUCA",
+    "codigo_departamento": "19",
+    "nombre_municipio": "POPAYAN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INDUSTRIAL Y DE ENERGIAS ALTERNATIVAS",
+    "codigo_centro": "9222",
+    "latitud": "11.515587",
+    "longitud": "-72.869466",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.869466, 11.515587]
+    },
+    "nombre_regional": "44",
+    "codigo_regional": "REGIONAL GUAJIRA",
+    "nombre_departamento": "LA GUAJIRA",
+    "codigo_departamento": "44",
+    "nombre_municipio": "RIOHACHA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DISENO E INNOVACION TECNOLOGICA INDUSTRIAL",
+    "codigo_centro": "9223",
+    "latitud": "4.893600",
+    "longitud": "-75.680000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.68, 4.8936]
+    },
+    "nombre_regional": "66",
+    "codigo_regional": "REGIONAL RISARALDA",
+    "nombre_departamento": "RISARALDA",
+    "codigo_departamento": "66",
+    "nombre_municipio": "PEREIRA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INDUSTRIAL DE MANTENIMIENTO INTEGRAL",
+    "codigo_centro": "9224",
+    "latitud": "7.080770",
+    "longitud": "-73.166800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.1668, 7.08077]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INDUSTRIAL DEL DISENO Y LA MANUFACTURA",
+    "codigo_centro": "9225",
+    "latitud": "7.064600",
+    "longitud": "-73.086050",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.08605, 7.0646]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "SANTANDER",
+    "codigo_departamento": "68",
+    "nombre_municipio": "BUCARAMANGA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE INDUSTRIA Y CONSTRUCCION",
+    "codigo_centro": "9226",
+    "latitud": "4.431700",
+    "longitud": "-75.211000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.211, 4.4317]
+    },
+    "nombre_regional": "73",
+    "codigo_regional": "REGIONAL TOLIMA",
+    "nombre_departamento": "CAQUETA",
+    "codigo_departamento": "18",
+    "nombre_municipio": "FLORENCIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE ELECTRICIDAD Y AUTOMATIZACION INDUSTRIAL - CEAI",
+    "codigo_centro": "9227",
+    "latitud": "3.467800",
+    "longitud": "-76.500000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.5, 3.4678]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "CAUCA",
+    "codigo_departamento": "19",
+    "nombre_municipio": "SANTANDER DE QUILICHAO",
+    "codigo_municipio": "698"
+  },
+  {
+    "centro_formacion": "CENTRO DE LA CONSTRUCCION",
+    "codigo_centro": "9228",
+    "latitud": "3.441000",
+    "longitud": "-76.506000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.506, 3.441]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "VALLE DEL CAUCA",
+    "codigo_departamento": "76",
+    "nombre_municipio": "CALI",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DISENO TECNOLOGICO INDUSTRIAL",
+    "codigo_centro": "9229",
+    "latitud": "3.467400",
+    "longitud": "-76.500000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.5, 3.4674]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "VALLE DEL CAUCA",
+    "codigo_departamento": "76",
+    "nombre_municipio": "CALI",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO NACIONAL DE ASISTENCIA TECNICA A LA INDUSTRIA - ASTIN",
+    "codigo_centro": "9230",
+    "latitud": "3.467000",
+    "longitud": "-76.500000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.5, 3.467]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "VALLE DEL CAUCA",
+    "codigo_departamento": "76",
+    "nombre_municipio": "CALI",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA EL DESARROLLO TECNOLOGICO DE LA CONSTRUCCION Y LA INDUSTRIA",
+    "codigo_centro": "9231",
+    "latitud": "4.570000",
+    "longitud": "-75.650000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.65, 4.57]
+    },
+    "nombre_regional": "63",
+    "codigo_regional": "REGIONAL QUINDIO",
+    "nombre_departamento": "QUINDIO",
+    "codigo_departamento": "63",
+    "nombre_municipio": "ARMENIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO",
+    "codigo_centro": "9301",
+    "latitud": "6.254800",
+    "longitud": "-75.575300",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.5753, 6.2548]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO Y SERVICIOS",
+    "codigo_centro": "9302",
+    "latitud": "10.987672",
+    "longitud": "-74.783447",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.783447, 10.987672]
+    },
+    "nombre_regional": "8",
+    "codigo_regional": "REGIONAL ATLANTICO",
+    "nombre_departamento": "ATLANTICO",
+    "codigo_departamento": "8",
+    "nombre_municipio": "BARRANQUILLA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION DE MERCADOS LOGISTICA Y TECNOLOGIAS DE LA INFORMACION",
+    "codigo_centro": "9303",
+    "latitud": "4.655700",
+    "longitud": "-74.066000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.066, 4.6557]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO Y SERVICIOS",
+    "codigo_centro": "9304",
+    "latitud": "10.373600",
+    "longitud": "-75.460000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.46, 10.3736]
+    },
+    "nombre_regional": "13",
+    "codigo_regional": "REGIONAL BOLIVAR",
+    "nombre_departamento": "BOLIVAR",
+    "codigo_departamento": "13",
+    "nombre_municipio": "CARTAGENA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO Y SERVICIOS",
+    "codigo_centro": "9306",
+    "latitud": "5.033200",
+    "longitud": "-75.450800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.4508, 5.0332]
+    },
+    "nombre_regional": "17",
+    "codigo_regional": "REGIONAL CALDAS",
+    "nombre_departamento": "CALDAS",
+    "codigo_departamento": "17",
+    "nombre_municipio": "MANIZALES",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO Y SERVICIOS",
+    "codigo_centro": "9307",
+    "latitud": "2.440200",
+    "longitud": "-76.612700",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.6127, 2.4402]
+    },
+    "nombre_regional": "19",
+    "codigo_regional": "REGIONAL CAUCA",
+    "nombre_departamento": "CAUCA",
+    "codigo_departamento": "19",
+    "nombre_municipio": "POPAYAN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO Y SERVICIOS",
+    "codigo_centro": "9308",
+    "latitud": "4.814100",
+    "longitud": "-75.700300",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.7003, 4.8141]
+    },
+    "nombre_regional": "66",
+    "codigo_regional": "REGIONAL RISARALDA",
+    "nombre_departamento": "RISARALDA",
+    "codigo_departamento": "66",
+    "nombre_municipio": "PEREIRA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE SERVICIOS EMPRESARIALES Y TURISTICOS",
+    "codigo_centro": "9309",
+    "latitud": "7.133000",
+    "longitud": "-73.119800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.1198, 7.133]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "CESAR",
+    "codigo_departamento": "20",
+    "nombre_municipio": "SAN ALBERTO",
+    "codigo_municipio": "710"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO Y SERVICIOS",
+    "codigo_centro": "9310",
+    "latitud": "4.432000",
+    "longitud": "-75.210000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.21, 4.432]
+    },
+    "nombre_regional": "73",
+    "codigo_regional": "REGIONAL TOLIMA",
+    "nombre_departamento": "HUILA",
+    "codigo_departamento": "41",
+    "nombre_municipio": "NEIVA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION TECNOLOGICA DE SERVICIOS",
+    "codigo_centro": "9311",
+    "latitud": "3.467890",
+    "longitud": "-76.500000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.5, 3.46789]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "VALLE DEL CAUCA",
+    "codigo_departamento": "76",
+    "nombre_municipio": "CALI",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE SERVICIOS DE SALUD",
+    "codigo_centro": "9401",
+    "latitud": "6.255000",
+    "longitud": "-75.574680",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.57468, 6.255]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE SERVICIOS Y GESTION EMPRESARIAL",
+    "codigo_centro": "9402",
+    "latitud": "6.256000",
+    "longitud": "-75.566000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.566, 6.256]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION DE TALENTO HUMANO EN SALUD",
+    "codigo_centro": "9403",
+    "latitud": "4.631600",
+    "longitud": "-74.063500",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.0635, 4.6316]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION ADMINISTRATIVA",
+    "codigo_centro": "9404",
+    "latitud": "4.603000",
+    "longitud": "-74.079990",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.07999, 4.603]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE SERVICIOS FINANCIEROS",
+    "codigo_centro": "9405",
+    "latitud": "4.652000",
+    "longitud": "-74.062800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.0628, 4.652]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "ITAGUI",
+    "codigo_municipio": "360"
+  },
+  {
+    "centro_formacion": "COMPLEJO TECNOLOGICO MINERO AGROEMPRESARIAL",
+    "codigo_centro": "9502",
+    "latitud": "6.492750",
+    "longitud": "-74.417800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.4178, 6.49275]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE LA INNOVACION LA AGROINDUSTRIA Y LA AVIACION",
+    "codigo_centro": "9503",
+    "latitud": "6.321175",
+    "longitud": "-75.371420",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.37142, 6.321175]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION EN ACTIVIDAD FISICA Y CULTURA",
+    "codigo_centro": "9508",
+    "latitud": "4.617880",
+    "longitud": "-74.158900",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.1589, 4.61788]
+    },
+    "nombre_regional": "11",
+    "codigo_regional": "REGIONAL DISTRITO CAPITAL",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DESARROLLO AGROINDUSTRIAL Y EMPRESARIAL",
+    "codigo_centro": "9509",
+    "latitud": "5.006380",
+    "longitud": "-74.475500",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.4755, 5.00638]
+    },
+    "nombre_regional": "25",
+    "codigo_regional": "REGIONAL CUNDINAMARCA",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROECOLOGICO Y EMPRESARIAL",
+    "codigo_centro": "9510",
+    "latitud": "4.335500",
+    "longitud": "-74.364400",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.3644, 4.3355]
+    },
+    "nombre_regional": "25",
+    "codigo_regional": "REGIONAL CUNDINAMARCA",
+    "nombre_departamento": "CUNDINAMARCA",
+    "codigo_departamento": "25",
+    "nombre_municipio": "ARBELAEZ",
+    "codigo_municipio": "53"
+  },
+  {
+    "centro_formacion": "CENTRO DE LA TECNOLOGIA DEL DISENO Y LA PRODUCTIVIDAD EMPRESARIAL",
+    "codigo_centro": "9511",
+    "latitud": "4.302200",
+    "longitud": "-74.805500",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.8055, 4.3022]
+    },
+    "nombre_regional": "25",
+    "codigo_regional": "REGIONAL CUNDINAMARCA",
+    "nombre_departamento": "CUNDINAMARCA",
+    "codigo_departamento": "25",
+    "nombre_municipio": "AGUA DE DIOS",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE BIOTECNOLOGIA AGROPECUARIA",
+    "codigo_centro": "9512",
+    "latitud": "4.694480",
+    "longitud": "-74.217330",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.21733, 4.69448]
+    },
+    "nombre_regional": "25",
+    "codigo_regional": "REGIONAL CUNDINAMARCA",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DESARROLLO AGROEMPRESARIAL",
+    "codigo_centro": "9513",
+    "latitud": "4.849436",
+    "longitud": "-74.049436",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.049436, 4.849436]
+    },
+    "nombre_regional": "25",
+    "codigo_regional": "REGIONAL CUNDINAMARCA",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PECUARIO Y AGROEMPRESARIAL",
+    "codigo_centro": "9515",
+    "latitud": "5.476675",
+    "longitud": "-74.668000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.668, 5.476675]
+    },
+    "nombre_regional": "17",
+    "codigo_regional": "REGIONAL CALDAS",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "APARTADO",
+    "codigo_municipio": "45"
+  },
+  {
+    "centro_formacion": "CENTRO TECNOLOGICO DE LA AMAZONIA",
+    "codigo_centro": "9516",
+    "latitud": "1.600000",
+    "longitud": "-75.583000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.583, 1.6]
+    },
+    "nombre_regional": "18",
+    "codigo_regional": "REGIONAL CAQUETA",
+    "nombre_departamento": "CAQUETA",
+    "codigo_departamento": "18",
+    "nombre_municipio": "FLORENCIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA LA BIODIVERSIDAD Y EL TURISMO DEL AMAZONAS",
+    "codigo_centro": "9517",
+    "latitud": "-4.210950",
+    "longitud": "-69.943075",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-69.943075, -4.21095]
+    },
+    "nombre_regional": "91",
+    "codigo_regional": "REGIONAL AMAZONAS",
+    "nombre_departamento": "AMAZONAS",
+    "codigo_departamento": "91",
+    "nombre_municipio": "LETICIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROFORESTAL Y ACUICOLA ARAPAIMA",
+    "codigo_centro": "9518",
+    "latitud": "0.498870",
+    "longitud": "-76.505000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.505, 0.49887]
+    },
+    "nombre_regional": "86",
+    "codigo_regional": "REGIONAL PUTUMAYO",
+    "nombre_departamento": "PUTUMAYO",
+    "codigo_departamento": "86",
+    "nombre_municipio": "MOCOA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROINDUSTRIAL Y FORTALECIMIENTO EMPRESARIAL DE CASANARE",
+    "codigo_centro": "9519",
+    "latitud": "5.328083",
+    "longitud": "-72.393138",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.393138, 5.328083]
+    },
+    "nombre_regional": "85",
+    "codigo_regional": "REGIONAL CASANARE",
+    "nombre_departamento": "CASANARE",
+    "codigo_departamento": "85",
+    "nombre_municipio": "YOPAL",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROEMPRESARIAL",
+    "codigo_centro": "9520",
+    "latitud": "8.303351",
+    "longitud": "-73.598824",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.598824, 8.303351]
+    },
+    "nombre_regional": "20",
+    "codigo_regional": "REGIONAL CESAR",
+    "nombre_departamento": "CESAR",
+    "codigo_departamento": "20",
+    "nombre_municipio": "AGUACHICA",
+    "codigo_municipio": "11"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO INDUSTRIA Y TURISMO DE CORDOBA",
+    "codigo_centro": "9523",
+    "latitud": "8.752000",
+    "longitud": "-75.886000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.886, 8.752]
+    },
+    "nombre_regional": "23",
+    "codigo_regional": "REGIONAL CORDOBA",
+    "nombre_departamento": "CORDOBA",
+    "codigo_departamento": "23",
+    "nombre_municipio": "MONTERIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROEMPRESARIAL Y ACUICOLA",
+    "codigo_centro": "9524",
+    "latitud": "10.895644",
+    "longitud": "-72.828556",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.828556, 10.895644]
+    },
+    "nombre_regional": "44",
+    "codigo_regional": "REGIONAL GUAJIRA",
+    "nombre_departamento": "LA GUAJIRA",
+    "codigo_departamento": "44",
+    "nombre_municipio": "RIOHACHA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DESARROLLO AGROEMPRESARIAL Y TURISTICO DEL HUILA",
+    "codigo_centro": "9526",
+    "latitud": "2.392700",
+    "longitud": "-75.889000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.889, 2.3927]
+    },
+    "nombre_regional": "41",
+    "codigo_regional": "REGIONAL HUILA",
+    "nombre_departamento": "CAUCA",
+    "codigo_departamento": "19",
+    "nombre_municipio": "INZA",
+    "codigo_municipio": "355"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION Y DESARROLLO SOSTENIBLE SURCOLOMBIANO",
+    "codigo_centro": "9528",
+    "latitud": "1.854830",
+    "longitud": "-76.047800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.0478, 1.85483]
+    },
+    "nombre_regional": "41",
+    "codigo_regional": "REGIONAL HUILA",
+    "nombre_departamento": "HUILA",
+    "codigo_departamento": "41",
+    "nombre_municipio": "ACEVEDO",
+    "codigo_municipio": "6"
+  },
+  {
+    "centro_formacion": "CENTRO DE LOGISTICA Y PROMOCION ECOTURISTICA DEL MAGDALENA",
+    "codigo_centro": "9529",
+    "latitud": "11.234070",
+    "longitud": "-74.201680",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.20168, 11.23407]
+    },
+    "nombre_regional": "47",
+    "codigo_regional": "REGIONAL MAGDALENA",
+    "nombre_departamento": "MAGDALENA",
+    "codigo_departamento": "47",
+    "nombre_municipio": "SANTA MARTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION Y DESARROLLO AGROINDUSTRIAL DE ARAUCA",
+    "codigo_centro": "9530",
+    "latitud": "7.093750",
+    "longitud": "-70.757672",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-70.757672, 7.09375]
+    },
+    "nombre_regional": "81",
+    "codigo_regional": "REGIONAL ARAUCA",
+    "nombre_departamento": "ARAUCA",
+    "codigo_departamento": "81",
+    "nombre_municipio": "ARAUCA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE INDUSTRIA Y SERVICIOS DEL META",
+    "codigo_centro": "9532",
+    "latitud": "4.127000",
+    "longitud": "-73.640000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.64, 4.127]
+    },
+    "nombre_regional": "50",
+    "codigo_regional": "REGIONAL META",
+    "nombre_departamento": "META",
+    "codigo_departamento": "50",
+    "nombre_municipio": "VILLAVICENCIO",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO SUR COLOMBIANO DE LOGISTICA INTERNACIONAL",
+    "codigo_centro": "9534",
+    "latitud": "0.829600",
+    "longitud": "-77.665000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-77.665, 0.8296]
+    },
+    "nombre_regional": "52",
+    "codigo_regional": "REGIONAL NARINO",
+    "nombre_departamento": "NARINO",
+    "codigo_departamento": "52",
+    "nombre_municipio": "PASTO",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INTERNACIONAL DE PRODUCCION LIMPIA - LOPE",
+    "codigo_centro": "9536",
+    "latitud": "1.211700",
+    "longitud": "-77.254000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-77.254, 1.2117]
+    },
+    "nombre_regional": "52",
+    "codigo_regional": "REGIONAL NARINO",
+    "nombre_departamento": "NARINO",
+    "codigo_departamento": "52",
+    "nombre_municipio": "PASTO",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE LA INDUSTRIA LA EMPRESA Y LOS SERVICIOS",
+    "codigo_centro": "9537",
+    "latitud": "7.899100",
+    "longitud": "-72.503800",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.5038, 7.8991]
+    },
+    "nombre_regional": "54",
+    "codigo_regional": "REGIONAL NORTE DE SANTANDER",
+    "nombre_departamento": "NORTE DE SANTANDER",
+    "codigo_departamento": "54",
+    "nombre_municipio": "CUCUTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE COMERCIO Y TURISMO",
+    "codigo_centro": "9538",
+    "latitud": "4.540000",
+    "longitud": "-75.686000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.686, 4.54]
+    },
+    "nombre_regional": "63",
+    "codigo_regional": "REGIONAL QUINDIO",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INDUSTRIAL Y DEL DESARROLLO TECNOLOGICO",
+    "codigo_centro": "9540",
+    "latitud": "7.065900",
+    "longitud": "-73.851000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.851, 7.0659]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "YONDO",
+    "codigo_municipio": "893"
+  },
+  {
+    "centro_formacion": "CENTRO AGROTURISTICO",
+    "codigo_centro": "9541",
+    "latitud": "6.558700",
+    "longitud": "-73.141388",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.141388, 6.5587]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "SANTANDER",
+    "codigo_departamento": "68",
+    "nombre_municipio": "ARATOCA",
+    "codigo_municipio": "51"
+  },
+  {
+    "centro_formacion": "CENTRO DE LA INNOVACION LA TECNOLOGIA Y LOS SERVICIOS",
+    "codigo_centro": "9542",
+    "latitud": "9.302800",
+    "longitud": "-75.380000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.38, 9.3028]
+    },
+    "nombre_regional": "70",
+    "codigo_regional": "REGIONAL SUCRE",
+    "nombre_departamento": "SUCRE",
+    "codigo_departamento": "70",
+    "nombre_municipio": "SINCELEJO",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE TECNOLOGIAS AGROINDUSTRIALES",
+    "codigo_centro": "9543",
+    "latitud": "4.745700",
+    "longitud": "-75.913700",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.9137, 4.7457]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "CHOCO",
+    "codigo_departamento": "27",
+    "nombre_municipio": "SAN JOSE DEL PALMAR",
+    "codigo_municipio": "660"
+  },
+  {
+    "centro_formacion": "CENTRO DE BIOTECNOLOGIA INDUSTRIAL",
+    "codigo_centro": "9544",
+    "latitud": "3.518900",
+    "longitud": "-76.301900",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.3019, 3.5189]
+    },
+    "nombre_regional": "76",
+    "codigo_regional": "REGIONAL VALLE",
+    "nombre_departamento": "CAUCA",
+    "codigo_departamento": "19",
+    "nombre_municipio": "PUERTO TEJADA",
+    "codigo_municipio": "573"
+  },
+  {
+    "centro_formacion": "CENTRO AGROEMPRESARIAL Y TURISTICO DE LOS ANDES",
+    "codigo_centro": "9545",
+    "latitud": "6.701066",
+    "longitud": "-72.735000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.735, 6.701066]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "BOYACA",
+    "codigo_departamento": "15",
+    "nombre_municipio": "BOAVITA",
+    "codigo_municipio": "97"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION AGROEMPRESARIAL DEL ORIENTE",
+    "codigo_centro": "9546",
+    "latitud": "6.009720",
+    "longitud": "-73.669000",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.669, 6.00972]
+    },
+    "nombre_regional": "68",
+    "codigo_regional": "REGIONAL SANTANDER",
+    "nombre_departamento": "SANTANDER",
+    "codigo_departamento": "68",
+    "nombre_municipio": "BUCARAMANGA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROEMPRESARIAL Y DESARROLLO PECUARIO DEL HUILA",
+    "codigo_centro": "9525",
+    "latitud": "2.200617",
+    "longitud": "-75.628107",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.628107, 2.200617]
+    },
+    "nombre_regional": "41",
+    "codigo_regional": "REGIONAL HUILA",
+    "nombre_departamento": "HUILA",
+    "codigo_departamento": "41",
+    "nombre_municipio": "AGRADO",
+    "codigo_municipio": "13"
+  },
+  {
+    "centro_formacion": "CENTRO AGROINDUSTRIAL Y PESQUERO DE LA COSTA PACIFICA",
+    "codigo_centro": "9535",
+    "latitud": "1.686375",
+    "longitud": "-78.760088",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-78.760088, 1.686375]
+    },
+    "nombre_regional": "52",
+    "codigo_regional": "REGIONAL NARINO",
+    "nombre_departamento": "NARINO",
+    "codigo_departamento": "52",
+    "nombre_municipio": "BARBACOAS",
+    "codigo_municipio": "79"
+  },
+  {
+    "centro_formacion": "CENTRO AGROPECUARIO Y DE BIOTECNOLOGIA EL PORVENIR",
+    "codigo_centro": "9115",
+    "latitud": "8.570890",
+    "longitud": "-75.949802",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.949802, 8.57089]
+    },
+    "nombre_regional": "23",
+    "codigo_regional": "REGIONAL CORDOBA",
+    "nombre_departamento": "CORDOBA",
+    "codigo_departamento": "23",
+    "nombre_municipio": "MONTERIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROPECUARIO Y DE SERVICIOS AMBIENTALES JIRI - JIRIMO",
+    "codigo_centro": "9548",
+    "latitud": "1.249076",
+    "longitud": "-70.235523",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-70.235523, 1.249076]
+    },
+    "nombre_regional": "97",
+    "codigo_regional": "REGIONAL VAUPES",
+    "nombre_departamento": "VAUPES",
+    "codigo_departamento": "97",
+    "nombre_municipio": "MITU",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AMBIENTAL Y ECOTURISTICO DEL NORORIENTE AMAZONICO",
+    "codigo_centro": "9547",
+    "latitud": "3.875840",
+    "longitud": "-67.919917",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-67.919917, 3.87584]
+    },
+    "nombre_regional": "94",
+    "codigo_regional": "REGIONAL GUAINIA",
+    "nombre_departamento": "GUAINIA",
+    "codigo_departamento": "94",
+    "nombre_municipio": "PTO INIRIDA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION AGROINDUSTRIAL",
+    "codigo_centro": "9116",
+    "latitud": "2.612561",
+    "longitud": "-75.361435",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.361435, 2.612561]
+    },
+    "nombre_regional": "41",
+    "codigo_regional": "REGIONAL HUILA",
+    "nombre_departamento": "HUILA",
+    "codigo_departamento": "41",
+    "nombre_municipio": "NEIVA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION MINERO AMBIENTAL",
+    "codigo_centro": "9127",
+    "latitud": "7.584644",
+    "longitud": "-74.800809",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.800809, 7.584644]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "CAUCASIA",
+    "codigo_municipio": "154"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION TURISTICA GENTE DE MAR Y DE SERVICIOS",
+    "codigo_centro": "9539",
+    "latitud": "12.578130",
+    "longitud": "-81.699558",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-81.699558, 12.57813]
+    },
+    "nombre_regional": "88",
+    "codigo_regional": "REGIONAL SAN ANDRES",
+    "nombre_departamento": "SAN ANDRES Y PROVIDENCIA",
+    "codigo_departamento": "88",
+    "nombre_municipio": "SAN ANDRES ISLAS",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE GESTION ADMINISTRATIVA Y FORTALECIMIENTO EMPRESARIAL",
+    "codigo_centro": "9305",
+    "latitud": "5.532872",
+    "longitud": "-73.364538",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.364538, 5.532872]
+    },
+    "nombre_regional": "15",
+    "codigo_regional": "REGIONAL BOYACA",
+    "nombre_departamento": "BOYACA",
+    "codigo_departamento": "15",
+    "nombre_municipio": "TUNJA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE OPERACION Y MANTENIMIENTO MINERO",
+    "codigo_centro": "9521",
+    "latitud": "10.471546",
+    "longitud": "-73.257896",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-73.257896, 10.471546]
+    },
+    "nombre_regional": "20",
+    "codigo_regional": "REGIONAL CESAR",
+    "nombre_departamento": "BOLIVAR",
+    "codigo_departamento": "13",
+    "nombre_municipio": "CARTAGENA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE PRODUCCION Y TRANSFORMACION AGROINDUSTRIAL DE LA ORINOQUIA",
+    "codigo_centro": "9531",
+    "latitud": "6.182762",
+    "longitud": "-67.486019",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-67.486019, 6.182762]
+    },
+    "nombre_regional": "99",
+    "codigo_regional": "REGIONAL VICHADA",
+    "nombre_departamento": "VICHADA",
+    "codigo_departamento": "99",
+    "nombre_municipio": "PUERTO CARRENO",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INDUSTRIAL DE MANTENIMIENTO Y MANUFACTURA",
+    "codigo_centro": "9514",
+    "latitud": "5.755345",
+    "longitud": "-72.908270",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.90827, 5.755345]
+    },
+    "nombre_regional": "15",
+    "codigo_regional": "REGIONAL BOYACA",
+    "nombre_departamento": "BOYACA",
+    "codigo_departamento": "15",
+    "nombre_municipio": "TUNJA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO INDUSTRIAL Y DE DESARROLLO EMPRESARIAL DE SOACHA",
+    "codigo_centro": "9232",
+    "latitud": "4.585575",
+    "longitud": "-74.219481",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-74.219481, 4.585575]
+    },
+    "nombre_regional": "25",
+    "codigo_regional": "REGIONAL CUNDINAMARCA",
+    "nombre_departamento": "CUNDINAMARCA",
+    "codigo_departamento": "25",
+    "nombre_municipio": "GRANADA",
+    "codigo_municipio": "312"
+  },
+  {
+    "centro_formacion": "CENTRO MINERO",
+    "codigo_centro": "9111",
+    "latitud": "5.730046",
+    "longitud": "-72.893300",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.8933, 5.730046]
+    },
+    "nombre_regional": "15",
+    "codigo_regional": "REGIONAL BOYACA",
+    "nombre_departamento": "BOGOTA D.C.",
+    "codigo_departamento": "11",
+    "nombre_municipio": "BOGOTA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "COMPLEJO TECNOLOGICO PARA LA GESTION AGROEMPRESARIAL",
+    "codigo_centro": "9501",
+    "latitud": "7.996571",
+    "longitud": "-75.196427",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.196427, 7.996571]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "CACERES",
+    "codigo_municipio": "120"
+  },
+  {
+    "centro_formacion": "COMPLEJO TECNOLOGICO TURISTICO Y AGROINDUSTRIAL DEL OCCIDENTE ANTIOQUENO",
+    "codigo_centro": "9549",
+    "latitud": "6.558980",
+    "longitud": "-75.829196",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-75.829196, 6.55898]
+    },
+    "nombre_regional": "5",
+    "codigo_regional": "REGIONAL ANTIOQUIA",
+    "nombre_departamento": "ANTIOQUIA",
+    "codigo_departamento": "5",
+    "nombre_municipio": "MEDELLIN",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AGROFORESTAL Y ACUICOLA ARAPAIMA",
+    "codigo_centro": "9518",
+    "latitud": "0.505059",
+    "longitud": "-76.501705",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-76.501705, 0.505059]
+    },
+    "nombre_regional": "86",
+    "codigo_regional": "REGIONAL PUTUMAYO",
+    "nombre_departamento": "PUTUMAYO",
+    "codigo_departamento": "86",
+    "nombre_municipio": "MOCOA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE FORMACION TURISTICA GENTE DE MAR Y DE SERVICIOS",
+    "codigo_centro": "9539",
+    "latitud": "12.576799",
+    "longitud": "-81.701032",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-81.701032, 12.576799]
+    },
+    "nombre_regional": "88",
+    "codigo_regional": "REGIONAL SAN ANDRES",
+    "nombre_departamento": "SAN ANDRES Y PROVIDENCIA",
+    "codigo_departamento": "88",
+    "nombre_municipio": "SAN ANDRES ISLAS",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO PARA LA BIODIVERSIDAD Y EL TURISMO DEL AMAZONAS",
+    "codigo_centro": "9517",
+    "latitud": "-4.210806",
+    "longitud": "-69.945538",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-69.945538, -4.210806]
+    },
+    "nombre_regional": "91",
+    "codigo_regional": "REGIONAL AMAZONAS",
+    "nombre_departamento": "AMAZONAS",
+    "codigo_departamento": "91",
+    "nombre_municipio": "LETICIA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO AMBIENTAL Y ECOTURISTICO DEL NORORIENTE AMAZONICO",
+    "codigo_centro": "9547",
+    "latitud": "3.874345",
+    "longitud": "-67.921817",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-67.921817, 3.874345]
+    },
+    "nombre_regional": "94",
+    "codigo_regional": "REGIONAL GUAINIA",
+    "nombre_departamento": "GUAINIA",
+    "codigo_departamento": "94",
+    "nombre_municipio": "PTO INIRIDA",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE DESARROLLO AGROINDUSTRIAL, TURISTICO Y TECNOLOGICO DEL GUAVIARE",
+    "codigo_centro": "9533",
+    "latitud": "2.561174",
+    "longitud": "-72.642749",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-72.642749, 2.561174]
+    },
+    "nombre_regional": "95",
+    "codigo_regional": "REGIONAL GUAVIARE",
+    "nombre_departamento": "META",
+    "codigo_departamento": "50",
+    "nombre_municipio": "PUERTO CONCORDIA",
+    "codigo_municipio": "450"
+  },
+  {
+    "centro_formacion": "CENTRO AGROPECUARIO Y DE SERVICIOS AMBIENTALES JIRI - JIRIMO",
+    "codigo_centro": "9548",
+    "latitud": "1.249076",
+    "longitud": "-70.235523",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-70.235523, 1.249076]
+    },
+    "nombre_regional": "97",
+    "codigo_regional": "REGIONAL VAUPES",
+    "nombre_departamento": "VAUPES",
+    "codigo_departamento": "97",
+    "nombre_municipio": "MITU",
+    "codigo_municipio": "1"
+  },
+  {
+    "centro_formacion": "CENTRO DE PRODUCCION Y TRANSFORMACION AGROINDUSTRIAL DE LA ORINOQUIA",
+    "codigo_centro": "9531",
+    "latitud": "6.181997",
+    "longitud": "-67.485291",
+    "georreferenciacion": {
+      "type": "Point",
+      "coordinates": [-67.485291, 6.181997]
+    },
+    "nombre_regional": "99",
+    "codigo_regional": "REGIONAL VICHADA",
+    "nombre_departamento": "VICHADA",
+    "codigo_departamento": "99",
+    "nombre_municipio": "PUERTO CARRENO",
+    "codigo_municipio": "1"
+  }
+]
